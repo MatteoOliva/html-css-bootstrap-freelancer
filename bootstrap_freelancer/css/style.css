@@ -1,0 +1,29 @@
+.bordered {
+    border: 3px dashed red;
+}
+#header {
+    background-color: #2C3E50;
+    color: white;
+    line-height: 60px;
+}
+#hero {
+    background-color: #1ABC9C;
+}
+#portfolio {
+    color: #2C3E50;
+}
+
+#about {
+    background-color: #1ABC9C;
+    color: white;
+}
+.footer-top {
+    background-color: #3A546D;
+    color: white;
+
+}
+.footer-bottom {
+    background-color: #2C3E50;
+    color: white;
+
+}
